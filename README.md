@@ -28,17 +28,17 @@
 
 ### 🌟 Destaques | Featured Projects
 
-#### 📊 [Python Cálculo ST](https://github.com/ludolffbruno/PYTHON-CALCULO-ST)
+#### 📊 [Python Cálculo ST](https://github.com/ludolffbruno/Personal-projects/tree/main/PlatinumTI)
 > **PT:** Automação de Substituição Tributária (ICMS-ST). Transforma regras fiscais complexas em uma interface GUI intuitiva.
 > **EN:** Tax Substitution Automation (ICMS-ST). Transforms complex tax rules into an intuitive GUI interface.
 > *Python, Tkinter, OpenPyXL*
 
-#### 🛒 [Auto-pedido Omie](https://github.com/ludolffbruno/Auto-pedido-omie-manus-Lilian)
+#### 🛒 [Auto-pedido Omie](https://github.com/ludolffbruno/Personal-projects/tree/main/PlatinumTI)
 > **PT:** Integração técnica com ERP Omie para automação de pedidos e sincronização de produtos.
 > **EN:** Technical integration with Omie ERP for order automation and product synchronization.
 > *Python, REST APIs, JSON, PDF Parsing*
 
-#### 🤖 [Vendedor Imortal — Outlook AI Agent](https://github.com/ludolffbruno/email-agent)
+#### 🤖 [Vendedor Imortal — Outlook AI Agent](https://github.com/ludolffbruno/Personal-projects/tree/main/PlatinumTI)
 > **PT:** Agente de IA para triagem de e-mails, visão multimodal (leitura de pedidos em anexo) e rascunhos automáticos.
 > **EN:** AI Agent for email screening, multimodal vision (reading attachment orders), and automatic drafts.
 > *Python, LangGraph, Gemini/Groq, Ms Graph API*
@@ -48,8 +48,12 @@
 ### 📈 Estatísticas | Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ludolffbruno&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludolffbruno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <a href="https://github.com/ludolffbruno">
+    <img src="https://github-readme-stats.vercel.app/api?username=ludolffbruno&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ludolffbruno">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludolffbruno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  </a>
 </p>
 
 ---
