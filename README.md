@@ -1,4 +1,3 @@
-
 # Bilingual Profile
 
 | 🇧🇷 Português | 🇺🇸 English |
@@ -49,8 +48,8 @@
 ### 📈 Estatísticas | Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ludolffbruno&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludolffbruno&layout=compact&theme=tokyonight" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=ludolffbruno&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludolffbruno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
