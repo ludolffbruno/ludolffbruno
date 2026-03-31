@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="github_header_banner_automation_1774977875071.png" width="100%">
-</p>
 
 # Bilingual Profile
 
