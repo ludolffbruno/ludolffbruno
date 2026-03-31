@@ -28,36 +28,26 @@
 
 ### 🌟 Destaques | Featured Projects
 
-#### 📊 [Python Cálculo ST](https://github.com/ludolffbruno/Personal-projects/tree/main/PlatinumTI)
+#### 📊 [Python Cálculo ST](https://github.com/ludolffbruno/Personal-projects/tree/main/PlatinumTI/CalculoST)
 > **PT:** Automação de Substituição Tributária (ICMS-ST). Transforma regras fiscais complexas em uma interface GUI intuitiva.
 > **EN:** Tax Substitution Automation (ICMS-ST). Transforms complex tax rules into an intuitive GUI interface.
 > *Python, Tkinter, OpenPyXL*
 
-#### 🛒 [Auto-pedido Omie](https://github.com/ludolffbruno/Personal-projects/tree/main/PlatinumTI)
+#### 🛒 [Auto-pedido Omie](https://github.com/ludolffbruno/Personal-projects/tree/main/PlatinumTI/auto-pedido-omie-lilian)
 > **PT:** Integração técnica com ERP Omie para automação de pedidos e sincronização de produtos.
 > **EN:** Technical integration with Omie ERP for order automation and product synchronization.
-> *Python, REST APIs, JSON, PDF Parsing*
+> *Python, ERP Omie API, PDF Extraction*
 
-#### 🤖 [Vendedor Imortal — Outlook AI Agent](https://github.com/ludolffbruno/Personal-projects/tree/main/PlatinumTI)
-> **PT:** Agente de IA para triagem de e-mails, visão multimodal (leitura de pedidos em anexo) e rascunhos automáticos.
-> **EN:** AI Agent for email screening, multimodal vision (reading attachment orders), and automatic drafts.
-> *Python, LangGraph, Gemini/Groq, Ms Graph API*
+#### 🤖 [Vendedor Imortal (Email Agent)](https://github.com/ludolffbruno/Personal-projects/tree/main/PlatinumTI/email-agent)
+> **PT:** Agente de IA para vendas automáticas por e-mail com LangGraph e memória vetorial.
+> **EN:** AI Agent for automated email sales using LangGraph and vector memory.
+> *LangChain, LangGraph, ChromaDB*
 
 ---
 
-### 📈 Estatísticas | Stats
+### 📊 Estatísticas | Stats
 
 <p align="center">
-  <a href="https://github.com/ludolffbruno">
-    <img src="https://github-readme-stats.vercel.app/api?username=ludolffbruno&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ludolffbruno">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludolffbruno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ludolffbruno&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludolffbruno&layout=compact&theme=radical" alt="Top Langs">
 </p>
-
----
-
-<div align="center">
-  <sub>Let's automate the world, one line at a time. 🚀</sub>
-</div>
