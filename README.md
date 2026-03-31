@@ -19,10 +19,11 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </p>
 
-- **Automations:** Process Optimization, RPA with Python, Email Agents, PDF Parsing.
-- **Integrations:** Omie ERP (Sales/Products), Microsoft Graph API (Outlook), REST APIs.
-- **Data Engineering:** CSV/Excel/SQL, Matriz ST automation, DMARC Security Reports.
-- **AI & Innovation:** Agentic Workflows, Long-term memory (ChromaDB), Multi-modal AI Agents.
+- - **Automation & Backend:** Python, Flask, RPA, Process Automation  
+- **Data Processing:** Pandas, Excel, CSV, OpenPyXL  
+- **Integrations:** REST APIs, Omie ERP, Microsoft Graph (Outlook)  
+- **AI & Agents:** LangChain, LangGraph, ChromaDB  
+- **Infrastructure:** Oracle Cloud  
 
 ---
 
